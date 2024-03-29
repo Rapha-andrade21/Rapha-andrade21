@@ -1,4 +1,4 @@
-DIO | RESUMOS GIT E GITHUB
+DIO | RESUMOS GIT E GITHUB.
 
 Repositório para armazenar resumos sobre Git e Github do Curso de Versionamento de Codigo com git e Github [Digital Innovation One](https://www.dio.me/).  
 
@@ -6,9 +6,11 @@ Repositório para armazenar resumos sobre Git e Github do Curso de Versionamento
 - [Documentação Git](https://git.scm.com/doc)
 - [Documentação GitHub](https://docs.github.com/)
 ## 💻 Resumos das Aulas
-| Aulas | Resumos|
-|-------|--------|
-| Gravando Alterações no Repositório local |[Resumos] () | 
+| Aulas
+
+AULA 01
+
+Gravando Alterações no Repositório local |[Resumos] (1) | 
 
 ```
 git init
